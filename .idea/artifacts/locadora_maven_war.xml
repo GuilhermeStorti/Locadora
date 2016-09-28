@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="war" name="locadora_maven:war">
-    <output-path>$PROJECT_DIR$/target</output-path>
-    <root id="archive" name="locadora_maven-1.0-SNAPSHOT.war">
-      <element id="artifact" artifact-name="locadora_maven:war exploded" />
-    </root>
-  </artifact>
-</component>
